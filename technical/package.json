@@ -1,0 +1,13 @@
+{
+  "name": "technical",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node findPrefix.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
